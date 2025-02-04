@@ -1,8 +1,0 @@
-CREATE TABLE air_quality (
-    id INTEGER PRIMARY KEY,
-    location TEXT,
-    pm25 REAL,
-    pm10 REAL,
-    no2 REAL,
-    co REAL
-);
